@@ -37,7 +37,7 @@ export const config = {
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "zw43lO7nT6MPKR_mjrbzS9CcEUjri0f8MCU5iIZhcWE",
       // 所在省份
-      province: "天津",
+      province: "天津市",
       // 所在城市
       city: "东丽区",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
