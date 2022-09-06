@@ -45,7 +45,7 @@ export const getAccessToken = async () => {
  */
 export const getWeather = async (province, city) => {
   if (!CITY_INFO[province] || !CITY_INFO[province][city] || !CITY_INFO[province][city]['AREAID']) {
-    console.log(province)
+    console.error(province,city)
     console.error('配置文件中找不到相应的省份或城市')
     return null
   }
