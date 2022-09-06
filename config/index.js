@@ -35,13 +35,13 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oMFwy6bFyCUs1AYS7vJCvJOnSBJY",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "zw43lO7nT6MPKR_mjrbzS9CcEUjri0f8MCU5iIZhcWE",
+      useTemplateId: "y0ARCVUJCiqJA_D-OGeatLe-ks59jFK_AcXTRFoXSAk",
       // 所在省份
       province: "天津",
       // 所在城市
       city: "天津",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-      openUrl: "https://wangxinleo.cn"
+      openUrl: ""
     }
   ],
 
@@ -84,7 +84,7 @@ export const config = {
 
   FESTIVALS: [
     {"type": "生日", "name": "大媳妇儿", "year": "1999", "date": "05-27"},
-    {"type": "纪念日", "name": "大媳妇儿", "year": "2016", "date": "12-01"},
+    // {"type": "节日", "name": "大媳妇儿", "year": "2016", "date": "12-01"},
   ],
 
   /**
